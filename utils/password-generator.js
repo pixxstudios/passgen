@@ -5,7 +5,6 @@ const generatePassword = ({ length, save, numbers, symbols }) => {
   let chars = alpha;
   numbers ? (chars += allNumbers) : '';
   symbols ? (chars += allSymbols) : '';
-  //   return password;
 
   let password = '';
 
