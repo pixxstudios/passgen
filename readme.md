@@ -14,3 +14,6 @@ Options:<br><br>
   -nn, --no-numbers      remove numbers<br>
   -ns, --no-symbols      remove symbols<br>
   -h, --help             display help for command
+--------------------------------------------------------------<br><br>
+Usage:
+> passgen --length=10 --save
