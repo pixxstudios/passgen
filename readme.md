@@ -5,8 +5,7 @@ ___
 
 ## Setup
 
-> npm install &nbsp;
-> npm link passgen
+> npm install && npm link passgen
 
 ___
 
